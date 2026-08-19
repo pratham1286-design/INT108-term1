@@ -7,3 +7,8 @@ def outer():
   print(x)
 
 outer()
+num=int(input("Enter a number: "))
+a=10
+b=10
+print(id(a))
+print(id(b))
